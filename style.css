@@ -1,15 +1,13 @@
 body 
 {
-    margin-top: 10%;
     background-color: #000000;
     color: #ffffff;
-    font-family:'Times New Roman', Times, serif;
+    font-family: Arial;
 }
 
 h1
 {
-    color: rgb(41, 74, 112);
-    padding-left: 10px;
+    color: grey;
     font-family: Verdana;
 }
 
@@ -42,10 +40,8 @@ table td
 #compute
 {
     margin-bottom: 10px;
-    background-color:rgb(41, 74, 112);
+    background-color: blue;
     color: white;
-    font-weight: 700;
-    border: none;
     height: 40px;
     width: 325px;
 }
@@ -66,14 +62,12 @@ table td
 
 .labels
 {
-/*     width: 120px; */
-    font-weight:700;
-    color: 2px solid black;
+    width: 120px;
 }
 
 .highlight
 {
-    background-color: rgba(131, 174, 224, 0.911);
+    background-color: #ffff00;
 }
 .copyright{
     padding-left: 75px;
